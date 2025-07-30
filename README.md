@@ -16,3 +16,8 @@ A beginner-friendly simulation of warehouse robots using Python and tkinter.
 ```bash
 git clone https://github.com/Sheulydsp/warehouse-robot-simulator.git
 cd warehouse-robot-simulator
+
+## 📸 Screenshot
+
+![Simulation GUI](screenshot.png)
+
